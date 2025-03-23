@@ -2,6 +2,7 @@
 
 ## Dashboard
 ![Exec Dashboard](https://github.com/siddharthpradhan20/NYC_Crime_Analysis/blob/main/Dashboard%201.jpg)
+![Exec Dashboard](https://github.com/siddharthpradhan20/NYC_Crime_Analysis/blob/main/Dashboard%202.png)
 
 ## Overview
 
