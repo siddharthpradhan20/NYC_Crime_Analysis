@@ -1,5 +1,8 @@
 # Analysis of Crime Rates in NYC - Tableau
 
+## Dashboard
+![Exec Dashboard](https://github.com/siddharthpradhan20/NYC_Crime_Analysis/blob/main/Dashboard%201.jpg)
+
 ## Overview
 
 This project analyzes crime rates in **New York City (NYC)** using publicly available datasets, exploring correlations between crime rates and socio-economic factors such as education, health, public safety, and social services. The project was implemented using **Tableau**, leveraging interactive visualizations to identify trends and hotspots in NYC.
